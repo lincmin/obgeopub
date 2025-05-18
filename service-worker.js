@@ -24,7 +24,7 @@ self.addEventListener("install", function (event) {
   // 安装Service Worker时,缓存文件
   event.waitUntil(
     caches.open(CACHE_NAME).then(function (cache) {
-      return cache.addALl(urlsToCache);
+      return cache.addAll(urlsToCache);
     })
   );
 });
