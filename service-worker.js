@@ -1,7 +1,5 @@
 const CACHE_NAME = "Flash Shorthand-cache-v1";
 const urlsToCache = [
-  "/",
-  "/index.html",
   "static/obgeo-icon.png",
   "static/location.png",
   "static/pen.png",
@@ -19,6 +17,7 @@ const urlsToCache = [
   "static/fonts/iconfont.ttf",
   "static/fonts/iconfont.woff",
   "static/fonts/iconfont.woff2",
+  "assets/uniicons.2579c7da.ttf",
 ];
 self.addEventListener("install", function (event) {
   // 安装Service Worker时,缓存文件
