@@ -9,7 +9,6 @@ const urlsToCache = [
   "static/js/pages-index-index.cb2c2841.js",
   "static/js/pages-history-history.2910577b.js",
   "static/js/pages-history-history~pages-index-index.d5f98b60.js",
-  "static/_02d5c7ee-04b5-42d7-9341-fb9578a6e805.jfif",
   "static/customicons.css",
   "static/customicons.ttf",
   "static/index.2da1efab.css",
