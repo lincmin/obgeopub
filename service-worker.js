@@ -4,7 +4,7 @@ const urlsToCache = [
   "static/location.png",
   "static/pen.png",
   "static/index.2da1efab.css",
-  "static/is/chunk-vendors.ec8a2d88.js",
+  "static/js/chunk-vendors.ec8a2d88.js",
   "static/js/index.baca0576.js",
   "static/js/pages-index-index.cb2c2841.js",
   "static/js/pages-history-history.2910577b.js",
