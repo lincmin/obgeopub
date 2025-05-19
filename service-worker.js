@@ -11,7 +11,6 @@ const urlsToCache = [
   "static/js/pages-history-history~pages-index-index.d5f98b60.js",
   "static/customicons.css",
   "static/customicons.ttf",
-  "static/index.2da1efab.css",
   "static/fonts/iconfont.css",
   "static/fonts/iconfont.ttf",
   "static/fonts/iconfont.woff",
